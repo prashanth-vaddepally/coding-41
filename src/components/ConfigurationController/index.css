@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.configuration-box {
+  background-color: #475569;
+  color: #ffffff;
+  padding-left: 40px;
+}
+.down-box {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5px;
+}

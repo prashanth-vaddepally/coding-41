@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.three-components {
+  display: flex;
+  flex-direction: column;
+  height: 60vh;
+  width: 60vw;
+  align-items: center;
+  margin-left: 200px;
+  
+}

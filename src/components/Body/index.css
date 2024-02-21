@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.left-box {
+  display: flex;
+  flex-direction: column;
+  background-color: #e2e8f0;
+  width: 12vw;
+  padding: 10px;
+}
+.content-box {
+  display: flex;
+  flex-direction: column;
+  background-color: #f1f5f9;
+  width: 34vw;
+  padding: 10px;
+}
+.left-bar-heading {
+  color: #475569;
+  font-size: 16px;
+}
+.right-bar-heading {
+  color: #475569;
+  font-size: 16px;
+}
+.content-heading {
+  color: #475569;
+  font-size: 16px;
+}
+.right-box {
+  display: flex;
+  flex-direction: column;
+  background-color: #e2e8f0;
+  width: 12vw;
+  padding: 10px;
+}
+.ad-box {
+  height: 15vh;
+  width: 10vw;
+  border: solid 2px #64748b;
+}
+.three-boxes {
+  display: flex;
+  flex-direction: row;
+  margin:10px;
+}
